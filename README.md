@@ -1,2 +1,2 @@
 # FightGameSimulation
-Pequeno jogo simulado de lutinha em C++ 
+Small fight simulation game using OOP
